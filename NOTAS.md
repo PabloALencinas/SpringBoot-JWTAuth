@@ -6,8 +6,8 @@ Configuracion de la base de datos que vamos a utilizar, en este caso, MySQL:
 
     spring.jpa.hibernate.ddl-auto=update
     spring.datasource.url=jdbc:mysql://localhost:3306/securitydb
-    spring.datasource.username=root
-    spring.datasource.password=pablo26.-
+    spring.datasource.username=ROOTUSERNAME
+    spring.datasource.password=ROOTPASSWORD
     spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
 
 
